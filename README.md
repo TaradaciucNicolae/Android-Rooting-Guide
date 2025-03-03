@@ -1,1 +1,1 @@
-# Android-Rooting-Guide
+# Referat - Rooting al dispozitivelor Android
