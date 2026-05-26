@@ -6,7 +6,7 @@ Materialul prezintă concepte precum pachete OTA, modificări la nivel de sistem
 
 ## Conținut
 
-- `Rooting al Dispozitivelor Android.pdf` — referatul complet al proiectului.
+- `Rooting al Dispozitivelor Android.pdf` - referatul complet al proiectului.
 
 ## Notă
 
