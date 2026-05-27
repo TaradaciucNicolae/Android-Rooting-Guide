@@ -11,3 +11,4 @@ Materialul prezintă concepte precum pachete OTA, modificări la nivel de sistem
 ## Notă
 
 Acest proiect are scop educațional și a fost realizat într-un mediu de testare cu mașini virtuale Ubuntu și Android. Tehnicile prezentate trebuie folosite doar pe dispozitive sau sisteme asupra cărora există permisiune explicită.
+
