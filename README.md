@@ -1,14 +1,13 @@
-# Rooting al Dispozitivelor Android
+# Android Rooting Guide
 
-Mic proiect documentar despre procesul de rooting pe Android într-un mediu de laborator controlat.
+A small documentation project about the Android rooting process in a controlled laboratory environment.
 
-Materialul prezintă concepte precum pachete OTA, modificări la nivel de sistem, injectare prin `app_process` și implementarea unui tool simplu pentru obținerea unui shell cu privilegii de root.
+The material presents concepts such as OTA packages, system-level modifications, injection through `app_process`, and the implementation of a simple tool for obtaining a shell with root privileges.
 
-## Conținut
+## Contents
 
-- `Rooting al Dispozitivelor Android.pdf` - referatul complet al proiectului.
+- `Rooting al Dispozitivelor Android.pdf` - the complete project report.
 
-## Notă
+## Note
 
-Acest proiect are scop educațional și a fost realizat într-un mediu de testare cu mașini virtuale Ubuntu și Android. Tehnicile prezentate trebuie folosite doar pe dispozitive sau sisteme asupra cărora există permisiune explicită.
-
+This project is intended for educational purposes and was carried out in a testing environment using Ubuntu and Android virtual machines. The techniques presented should only be used on devices or systems for which explicit permission exists.
