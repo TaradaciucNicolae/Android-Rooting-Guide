@@ -11,3 +11,4 @@ The material presents concepts such as OTA packages, system-level modifications,
 ## Note
 
 This project is intended for educational purposes and was carried out in a testing environment using Ubuntu and Android virtual machines. The techniques presented should only be used on devices or systems for which explicit permission exists.
+
